@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <p>- 📫 How to reach me **eyupkaya@cleanonionarchitecture.com**</p>
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="linkedin.com/in/developer-eyup-kaya" target="blank"><img
+<p align="left"><a href="www.linkedin.com/in/developer-eyüpkaya" target="blank"><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="www.linkedin.com/in/eyup-kaya-80863b2b3" width="40" height="30" align="center"/></a></p>
 <h3 align="left">Programming Languages:</h3>
