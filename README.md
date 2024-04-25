@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ey&uuml;p Kaya</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-<p>- 📫 How to reach me **eyupkaya@cleanonionarchitecture.com**</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/developer-eyüpkaya" target="blank"><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
