@@ -33,7 +33,7 @@
     <a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img
             src="https://grpc.io/img/logos/grpc-logo.png" alt="grpc" width="40" height="40"/>
     </a></p>
-<h3 align="left">DataBase:</h3>
+<h3 align="left">Database:</h3>
 
 <p align="left"><a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
